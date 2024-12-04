@@ -1,0 +1,152 @@
+* {
+  margin: 0%;
+  padding: 0%;
+}
+
+.jod {
+  margin-left: 570px;
+  margin-top: 100px;
+  background-color: rgb(247, 235, 235);
+  width: 500px;
+  height: 465px;
+  border: 1px solid black;
+  border-radius: 30px;
+  box-shadow: 10px 10px 10px;
+}
+.img {
+  margin: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.img img {
+  border-radius: 300px;
+  border: 3px solid black;
+}
+
+.name {
+  margin-left: 165px;
+  margin-top: -5px;
+}
+.desc {
+  padding-left: 25px;
+  padding-right: 5px;
+}
+.vi {
+  background-color: beige;
+  margin-top: 50px;
+  margin-left: 30px;
+  width: 200px;
+  height: 50px;
+  cursor: pointer;
+  box-shadow: 2px 2px 2px;
+  transition: 0.2s;
+}
+.vi1 {
+  display: flex;
+  background-color: beige;
+  margin-top: -50px;
+  margin-left: 260px;
+  padding-left: 70px;
+  padding-top: 15px;
+  width: 200px;
+  height: 50px;
+  cursor: pointer;
+  text-align: center;
+  box-shadow: 2px 2px 2px;
+  transition: 0.2s;
+}
+.vi1:hover {
+  color: rgb(243, 201, 201);
+}
+.vi:hover {
+  color: rgb(243, 201, 201);
+}
+
+.layer {
+  
+  display: flex;
+  height: 60px;
+  background-color: rgb(243, 219, 219);
+  margin: 0px;
+}
+.po p {
+  padding-right: 900px;
+}
+
+.nav1 {
+  display: flex;
+  padding-top: 100px;
+  padding-left:340px;
+  margin-top: -90px;
+  gap: 10px;
+}
+.nav1 a{
+  display: flex;
+  padding-left: 42px;
+  padding-top: 10px;
+  padding-right: 45px;
+  font-size: larger;
+  font-weight: bolder;
+  color: black;
+  transition:0.9s;
+  height: 30px;
+  box-shadow: 2px 2px 2px ;
+  border: 1px solid black;
+  
+}
+
+.search1 input{
+  margin-left: 73px;
+  margin-top: 12px;
+  display: flex;
+  padding-left: 300px;
+  padding-top: 15px;
+  padding-bottom: 5px;
+  border-radius: 20px; 
+  box-shadow: 1px 2px;
+}
+
+.btn input{
+  margin-left: 560px;
+  margin-top: -39px;
+  display: flex;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 20px;
+  background-color: beige;
+  box-shadow: 1px 2px;
+}
+
+
+.po img{
+  display: flex;
+  border-radius:50%;
+  height: 56px; 
+  padding-left: 10px;  
+  box-shadow: 1px 2px;
+  
+}
+.pn h1{
+  padding-left: 74px;
+  margin-top: -44px;
+  font-size: 250%;
+}
+
+
+.nav a:hover{
+  background-color: beige;
+  
+}
+.help img{
+  border: 100px;
+  border-radius: 300px;
+  height: 100px;
+  margin-top: 200px;
+  margin-left: 1780px;
+
+}
+
+
